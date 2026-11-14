@@ -22,6 +22,7 @@
 
 - [Accentize](https://www.accentize.com) - [DeRoomPro2](https://www.accentize.com/product/deroom) 2.0.7
 - [Accentize](https://www.accentize.com) - [dxRevive Pro](https://www.accentize.com/product/dxrevive) 1.2.8
+- [Andrew Reeman](https://www.andrewreeman.com) - [Spectral Gate](https://www.andrewreeman.com/spectralsuite) 2.1.9
 - [FabFilter](https://www.fabfilter.com) - [Pro-Q](https://www.fabfilter.com/products/pro-q-4-equalizer-plug-in) 4.01
 - [Image-Line](https://www.image-line.com) - [FL Studio](https://www.image-line.com/fl-studio) 26.1.6.5639
 - [Image-Line](https://www.image-line.com) - [Edison](https://www.image-line.com/fl-studio-learning/fl-studio-online-manual/html/plugins/Edison.htm) 2.0
